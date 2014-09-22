@@ -1,0 +1,193 @@
+
+2014-09-01 17:09:46 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Joakim
+    [lname] => Bjerén Backler
+    [phone] => 0760436595
+    [mobile] => 0760252580
+    [street] => Älvgatan 9
+    [zip] => 252 30
+    [city] => Helsingborg
+    [email] => jockeblingbling@hotmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197703012414
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-09-01 17:09:46 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-09-01 17:09:47 [INFO] Skickar email: BESTÄLLNING, till: jockeblingbling@hotmail.com 
+2014-09-02 17:09:06 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Fredrica
+    [lname] => Lidman
+    [phone] => 0708574977
+    [mobile] => 0708574977
+    [street] => Gamla vägen 15
+    [zip] => 244 91
+    [city] => Kävlinge
+    [email] => fredricainice@hotmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197110160467
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-09-02 17:09:07 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-09-02 17:09:07 [INFO] Skickar email: BESTÄLLNING, till: fredricainice@hotmail.com 
+2014-09-04 15:09:42 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Annelie
+    [lname] => Ivarsson
+    [phone] => 
+    [mobile] => 0702673266
+    [street] => Björktrastvägen 7
+    [zip] => 432 76
+    [city] => Tvååker
+    [email] => annelie.m.ivarsson@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => JA
+    [o4] => Nej
+    [comments] => jag kan inte klicka för att jag vill ha skattereduktion, jag vill ha det.
+    [ss] => 196505144664
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => Rekommendation
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-09-04 15:09:42 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-09-04 15:09:43 [INFO] Skickar email: BESTÄLLNING, till: annelie.m.ivarsson@gmail.com 
+2014-09-04 19:09:49 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Anna
+    [lname] => Forslund
+    [phone] => 041315666
+    [mobile] => 0763083830
+    [street] => Nils Johnssons väg 8
+    [zip] => 241 38
+    [city] => Eslöv
+    [email] => annaforslund80@hotmail.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198012144047
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-09-04 19:09:49 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-09-04 19:09:49 [INFO] Skickar email: BESTÄLLNING, till: annaforslund80@hotmail.se 

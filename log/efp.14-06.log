@@ -1,0 +1,913 @@
+
+2014-06-06 10:06:03 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Gabriele
+    [lname] => Emanuelsson
+    [phone] => 
+    [mobile] => 0761876491   0705091794
+    [street] => Terriervägen 11
+    [zip] => 302 64
+    [city] => Halmstad
+    [email] => gaby.emanuelsson@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 195404184607
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-06 10:06:03 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-06 10:06:04 [INFO] Skickar email: BESTÄLLNING, till: gaby.emanuelsson@gmail.com 
+2014-06-09 14:06:23 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Elisabeth
+    [lname] => Persson
+    [phone] => 0708109165
+    [mobile] => 0708109165
+    [street] => Pilagårdsvägen 22
+    [zip] => 305 78
+    [city] => Kvibille
+    [email] => elisabeth.s.persson@utb.halmstad.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197607084642
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-09 14:06:23 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-09 14:06:23 [INFO] Skickar email: BESTÄLLNING, till: elisabeth.s.persson@utb.halmstad.se 
+2014-06-09 19:06:03 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Charlotte
+    [lname] => Redo Sevholt
+    [phone] => 
+    [mobile] => 0733704606
+    [street] => Dalavägen 34
+    [zip] => 305 60
+    [city] => Harplinge
+    [email] => charlottesevholt@hotmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198312024600
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-09 19:06:03 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-09 19:06:03 [INFO] Skickar email: BESTÄLLNING, till: charlottesevholt@hotmail.com 
+2014-06-09 19:06:23 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Pia
+    [lname] => Alfredsson
+    [phone] => 
+    [mobile] => 0702548916
+    [street] => Klockaregatan 13
+    [zip] => 311 36
+    [city] => Falkenberg
+    [email] => pia.alfredsson@pictura.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 19580623-4828
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-09 19:06:23 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-09 19:06:24 [INFO] Skickar email: BESTÄLLNING, till: pia.alfredsson@pictura.se 
+2014-06-11 11:06:05 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Bo
+    [lname] => Ekdahl
+    [phone] => 
+    [mobile] => 0764085060
+    [street] => Mårtensgatan 19 A
+    [zip] => 244 30
+    [city] => Kävlinge
+    [email] => 
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 19440801-2690
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-11 11:06:05 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-11 11:06:06 [INFO] Skickar email: BESTÄLLNING, till: noreply@eriksfonsterputs.se 
+2014-06-12 08:06:45 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Martin
+    [lname] => Lindholm
+    [phone] => 0730964099
+    [mobile] => 0730964099
+    [street] => Junkergatan 8
+    [zip] => 216 17
+    [city] => Limhamn
+    [email] => jmartinlindholm@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197505066139
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-12 08:06:45 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-12 08:06:45 [INFO] Skickar email: BESTÄLLNING, till: jmartinlindholm@gmail.com 
+2014-06-12 20:06:22 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Maria
+    [lname] => Gillheim
+    [phone] => 
+    [mobile] => 0709366897
+    [street] => Östra Almgatan 32
+    [zip] => 234 37
+    [city] => Lomma
+    [email] => maria.gillheim@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197902244123
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-12 20:06:22 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-12 20:06:22 [INFO] Skickar email: BESTÄLLNING, till: maria.gillheim@gmail.com 
+2014-06-16 08:06:41 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Marcus
+    [lname] => Neuchel
+    [phone] => 0709559506
+    [mobile] => 
+    [street] => Absalons Väg 3
+    [zip] => 244 71
+    [city] => Dösjebro
+    [email] => 
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197710254090
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-16 08:06:41 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-16 08:06:42 [INFO] Skickar email: BESTÄLLNING, till: noreply@eriksfonsterputs.se 
+2014-06-16 18:06:44 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Ann-Helén
+    [lname] => Holm
+    [phone] => 0707737486
+    [mobile] => 
+    [street] => Björnbärsgatan 25
+    [zip] => 234 43
+    [city] => Lomma
+    [email] => ann-helen.holm@telia.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 19610926-3647
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-16 18:06:44 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-16 18:06:45 [INFO] Skickar email: BESTÄLLNING, till: ann-helen.holm@telia.com 
+2014-06-17 11:06:05 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Mattias
+    [lname] => Björk
+    [phone] => 0708778246,0703719371
+    [mobile] => 0708778246,0703719371
+    [street] => Groddgränd 4
+    [zip] => 263 53
+    [city] => Lerberget
+    [email] => mattiasboorken@hotmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197404013935
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-17 11:06:05 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-17 11:06:06 [INFO] Skickar email: BESTÄLLNING, till: mattiasboorken@hotmail.com 
+2014-06-17 20:06:37 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Johan
+    [lname] => Larsson
+    [phone] => 0703125569
+    [mobile] => 0703125569
+    [street] => Smögengatan 11
+    [zip] => 263 58
+    [city] => Strandbaden
+    [email] => johan.a.larsson@hoganas.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198007244117
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-17 20:06:37 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-17 20:06:38 [INFO] Skickar email: BESTÄLLNING, till: johan.a.larsson@hoganas.com 
+2014-06-20 17:06:17 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Dana
+    [lname] => Lukic
+    [phone] => 
+    [mobile] => 0739232704
+    [street] => Kupégatan 34
+    [zip] => 212 42
+    [city] => Malmö
+    [email] => dana.lukic@malmo.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198206150487
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-20 17:06:17 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-20 17:06:18 [INFO] Skickar email: BESTÄLLNING, till: dana.lukic@malmo.se 
+2014-06-21 08:06:35 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Andreas
+    [lname] => Attnäs
+    [phone] => 040464675
+    [mobile] => 
+    [street] => Odens väg 1
+    [zip] => 245 64
+    [city] => Hjärup
+    [email] => andreas.attnas@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197406087150
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-21 08:06:35 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-21 08:06:35 [INFO] Skickar email: BESTÄLLNING, till: andreas.attnas@gmail.com 
+2014-06-21 08:06:51 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Andreas
+    [lname] => Attnäs
+    [phone] => 040464675
+    [mobile] => 
+    [street] => Odens väg 1
+    [zip] => 245 64
+    [city] => Hjärup
+    [email] => andreas.attnas@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197406087150
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-21 08:06:51 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-21 08:06:51 [INFO] Skickar email: BESTÄLLNING, till: andreas.attnas@gmail.com 
+2014-06-22 18:06:09 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Karl
+    [lname] => Pamp
+    [phone] => 0708127710
+    [mobile] => 0708127710
+    [street] => Särögatan 3
+    [zip] => 257 31
+    [city] => Rydebäck
+    [email] => karl@pamp.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 197903204019
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-22 18:06:09 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-22 18:06:10 [INFO] Skickar email: BESTÄLLNING, till: karl@pamp.se 
+2014-06-22 19:06:25 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Lina
+    [lname] => Nilsson
+    [phone] => 0709399784
+    [mobile] => 0709399784
+    [street] => Aspehus 3595
+    [zip] => 268 78
+    [city] => Kågeröd
+    [email] => stallaspehus@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198204183563
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-22 19:06:25 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-22 19:06:25 [INFO] Skickar email: BESTÄLLNING, till: stallaspehus@gmail.com 
+2014-06-23 08:06:09 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Anders
+    [lname] => Helmer
+    [phone] => 
+    [mobile] => 0733-147497
+    [street] => Östra Almgatan 1
+    [zip] => 234 37
+    [city] => Lomma
+    [email] => andershelmer73@gmail.com
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 19730125-3915
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-23 08:06:09 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-23 08:06:09 [INFO] Skickar email: BESTÄLLNING, till: andershelmer73@gmail.com 
+2014-06-24 09:06:52 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Sofie
+    [lname] => Gerdtsson
+    [phone] => 041045097
+    [mobile] => 0738125231
+    [street] => Fågelhundsvägen 15
+    [zip] => 231 92
+    [city] => Trelleborg
+    [email] => 
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 19771023-4068
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-24 09:06:52 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-24 09:06:52 [INFO] Skickar email: BESTÄLLNING, till: noreply@eriksfonsterputs.se 
+2014-06-24 20:06:17 [INFO] BESTÄLLNING
+stdClass Object
+(
+    [fname] => Therese
+    [lname] => Lindholm
+    [phone] => 041617032
+    [mobile] => 0702262448
+    [street] => Balkgatan 3
+    [zip] => 275 32
+    [city] => Sjöbo
+    [email] => therese_l_@hotmail.se
+    [rut] => JA
+    [o2] => Nej
+    [o3] => Nej
+    [o4] => Nej
+    [comments] => 
+    [ss] => 198012290246
+    [ex_fname] => 
+    [ex_lname] => 
+    [ex_phone] => 
+    [ex_mobile] => 
+    [ex_street] => 
+    [ex_zip] => 
+    [ex_city] => 
+    [ex_email] => 
+    [option] => op5
+    [customernbr] => 
+    [rutchange] => 
+    [period] => 
+    [tillval] => 
+    [avbokning] => 
+    [from] => 
+    [to] => 
+    [terms] => Ja
+    [vem] => 
+    [why] => 
+    [campaign_code] => 
+    [uppsagning] => 
+    [extradate1] => 
+    [extradate6] => 
+    [cancelationdate] => 
+    [comments1] => 
+    [comments2] => 
+    [comments7] => 
+)
+
+2014-06-24 20:06:17 [INFO] Skickar email: BESTÄLLNING, till: kundtjanst@eriksfonsterputs.se 
+2014-06-24 20:06:17 [INFO] Skickar email: BESTÄLLNING, till: therese_l_@hotmail.se 

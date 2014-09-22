@@ -1,0 +1,454 @@
+/*
+Theme Name: Eriks Fonsterputs Mobile
+Theme URI: 
+Author: Milan Brindic
+Author URI: www.bincodesolutions.com
+Description: Eriks Fonsterputs Mobile
+Version: 1.0
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl.html
+Tags: 
+Text Domain: 
+*/
+
+@font-face
+{
+	font-family: Signika;
+	src: url(SignikaNegative-Regular.ttf);
+}
+
+A,
+A:focus,
+A:active {
+ 	outline: none;
+ 
+	color: #00accd;
+}
+
+A:hover {
+	color: #222;
+}
+
+body{
+	font-family: Signika;
+}
+#header {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #cccccc;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+#footer-menu {
+	margin: 5px 0px 0px 0px;
+	position:fixed;
+	background-color: White;
+	border-top:1px solid Black;
+	width:100%;
+	bottom:0px;
+	left:0px;
+}
+/* ----- FORMULÄR ----- */
+
+.FIELDSET {
+	/* margin: 20px 0 0; PLUCERA ORIGINAL */
+	/* padding: 30px 0 0; PLUCERA ORIGINAL */
+	margin: 5px 0 0;
+	padding: 5px 0 0;
+	border: none;
+	/* border-top: 1px dashed #777; PLUCERA ORIGINAL */
+}/* Formulärsida */
+.hidden {
+	display: none;
+}
+
+.invalid {
+	color: red;
+}
+
+.order INPUT {
+	display: inline-block;
+	/* width: 230px; PLUCERA ORIGINAL */
+	/* background-color: #f3f3f3; PLUCERA ORIGINAL */
+	background-color: #f9f9f9;
+	/* font-size: 14px; PLUCERA ORIGINAL  */
+	font-size: 16px;
+}
+.order INPUT[type="text"]
+{
+	text-align:center;
+	display:block;
+	margin:8px auto !important;
+	border:1px solid #aaaaaa;
+	height:30px;
+	width:95%;
+	padding:4px;
+}
+#zip::-webkit-input-placeholder, #zip:-moz-placeholder,#zip::-moz-placeholder,#zip:-ms-input-placeholder {
+    font-size: 19px;
+}
+.order INPUT[type="button"] {
+	display: inline-block;
+	width: auto;
+	margin: 0 0 5px 5px;
+	padding: 0 15px;
+	box-shadow: 0px 0px 5px #666;
+	color: #fff;
+}
+.fortsatt-submit{
+	width: 200px;
+	height: 36px;
+	background-color: #fff;
+	background: url('img/bg/input-submit-mobile.png') no-repeat scroll left top transparent;
+	box-shadow: none;
+	border: none;
+	text-align: center;
+	color: #FFF;
+	font-size: 20px;
+	font-weight: 300;
+}
+.fortsatt{
+	border:none;
+	color:white;
+	font-family:Signika;
+	border-radius: 4px;
+	text-transform: uppercase;
+	width:auto;
+	height:27px;
+	padding: 0px 10px 0;
+}
+.order INPUT[type="button"]#ss-button {
+	margin: 0 0 10px 10px;
+	text-transform: uppercase;
+}
+
+.order INPUT[type="checkbox"],
+.order INPUT[type="radio"] {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	margin: 1px 3px 3px 3px;
+	padding: 0;
+
+/*	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+*/	box-shadow: none;
+}
+#start-page-head-text{
+	font-size: 1.1em;
+}
+.start-btn-orange{
+	width:80px;
+	bottom: 0;
+	left: 50%;
+	margin-left: -45px;
+	position: fixed;
+}
+#zip-ok, #zip-nok {
+	height: auto;
+	padding: 10px;
+	background-color: #efefef;
+	border: 2px solid #00accd;
+	margin: 10px 0px;
+	font-weight: bold;
+}
+
+#zip-nok {
+	border-color: red;
+}
+
+#ss-container {
+	position: relative;
+	/* margin-top: 20px;  PLUCERA ORIGINAL */
+	/* padding-top: 30px; PLUCERA ORIGINAL */
+	margin-top: 10px;
+	overflow: hidden;
+	/* border-top: 1px dashed #777; PLUCERA ORIGINAL */
+}
+
+LABEL.comments {
+	margin-top: 5px; 
+	/* margin-top: 20px; PLUCERA ORIGINAL */
+}
+
+#ss-progress {
+	position: absolute;
+	right: 230px;
+	bottom: 20px;
+	padding: 0;
+	box-shadow: none;
+}
+.order FORM A, #content A, #menu a{
+	display: inline-block;
+	height: 27px;
+	padding: 15px 10px 0;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Signika;
+}
+#footer-menu a{
+	display: inline-block;
+	height: 27px;
+	background: url('img/bg/menu-buttons-bottom-bck2.png');
+	border-radius: 4px;
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Signika;
+	width: 15%;
+	padding: 15px 5px 0;
+}
+#footer-menu-bottom-3-links a{
+	display: inline-block;
+	height: 27px;
+	background: url('img/bg/menu-buttons-bottom-bck2.png');
+	border-radius: 4px;
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Signika;
+	width: 15%;
+	padding: 15px 5px 0;
+}
+#header-3-links-menu a{
+	display: inline-block;
+	height: 27px;
+	background: url('img/bg/menu-buttons-bottom-bck2.png');
+	border-radius: 4px;
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Signika;
+	padding: 15px 5px 0;
+}
+.order FORM .start-btn-orange{
+	display: inline-block;
+	height: 17px;
+	padding: 5px 5px 0;
+	background: url('img/bg/menu-buttons-bottom-small-bck.png');
+	border-radius: 4px;
+	color: #fff;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Signika;
+}
+.zip-start-btn{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	display:block;
+	border-top:1px solid Black;
+	background-color:White;
+}
+.order FORM A:hover, #content A:hover, #menu A:hover {
+	color: White;
+	text-decoration: underline;
+}
+/* Formulärsida */
+/* ----- FORMULÄR ----- */
+
+/*---------------------------------------Q&A------------------------*/
+.entry-content {
+	
+}
+
+.entry-content h3 {
+	display: none;
+}
+.entry-content h1 {
+	font-size: 0.9em;
+}
+#container {
+	text-align: center;
+	padding-bottom: 40px;
+}
+/*----------------------------------Kontakt--------------------------*/
+.call-button {
+	float: left;
+}
+.mail-button {
+	float: left;
+}
+.kontakt-buttons-separator{
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+.map {
+	border: 1px solid #ccc;
+}
+.buttons-wrapper{
+	min-height: 50px;
+	display: inline-block;
+	margin: 20px 0px;
+}
+.buttons-wrapper p{
+	margin: 0px;
+	text-decoration: none;
+	color: #000000;
+}
+.buttons-wrapper a{
+	text-decoration: none;
+}
+/*----------------------------START--------------------------------*/
+.entry-content h1 {
+	margin: 20px 0 0 0;
+}
+.column_grid_8 {
+	display: inline-block;
+}
+
+/*--------------------------------putsomraden with map-------------------------*/
+
+.putsar-image-and-text{
+	display: block;
+	margin-top: -11px;
+}
+.putsar-image{
+	background:url('img/inline/blue-map.png') no-repeat;
+	width:100%;
+	background-size: 100%;
+	margin: auto;
+}
+.putsar-text {
+	font-size:0.3em;
+	padding-top:52%;
+	padding-right:14%;
+	z-index: 2;
+	color: #000000;
+	float: right;
+	width: 30%;
+}
+.putsar-text .putsomraden-button {
+	display: inline-block;
+	border: none;
+	width: 100px;
+	height: 18px;
+	background: url('img/bg/input-submit-mobile-small.png');
+	border-radius: 4px;
+	color: #fff;
+	font-size: 11px;
+	text-decoration: none;
+}
+/*---------------------------bestallning---------------------------------------*/
+.fieldset-address {
+	border: none;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.fieldset-address h2 {
+	margin: 0px;
+	font-size: 0.8em;
+}
+
+.fieldset-address li {
+	margin: 10px 0px 0px 0px;
+}
+
+.fieldset-address li input {
+	margin: 10px 0px;
+}
+
+#pers-container{
+	width: 100%;
+}
+#pers-container ul {
+	padding: 0px;
+	list-style-type: none;
+	width: 100%;
+}
+
+#pers-container ul fieldset{
+	padding: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.link-buttons {
+	width: 95%;
+	border: none;
+	text-align: left;
+}
+.link-buttons a{
+	width: 85%;
+	margin-bottom: 10px;
+	height: 60px;
+}
+
+.fieldset-with-radio-buttons {
+	text-align: left;
+	border: none;
+	width: 100%;
+}
+
+.head-buttons{
+	width: 100%;
+	height: auto;
+}
+.head-button input{
+	width: 100%;
+	height: auto;
+}
+/*------------------------ON OFF SLIDER BUTTON--------------------------*/
+.slider-frame {
+  margin-top: 5px;
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 84px;
+  height: 27px;
+  background-color: rgb(246, 249, 251);
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+  margin-bottom: 10px;
+}
+.slider-button {
+  display: block;
+  width: 43px;
+  height: 27px;
+  line-height: 27px;
+  background: #EDF2F7;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+  color: #000;
+  font-family:sans-serif;
+  font-size:11px;
+  font-weight:bold;
+  text-align: center;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0px 0px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.slider-button.on {
+  margin-left: 40px;
+  background: #007783 !important;
+  color: #ffffff;
+}
+
+.faq-closed, .faq-open {
+	text-align: left !important;
+}
+/*----------------------------------------------------------------------*/
